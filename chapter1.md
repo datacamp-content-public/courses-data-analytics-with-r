@@ -14,7 +14,7 @@ xp: 100
 skills: 1
 ```
 
-This is an example exercise.
+Exercise 1
 
 `@instructions`
 create a data frame with three columns defined as follow: 
