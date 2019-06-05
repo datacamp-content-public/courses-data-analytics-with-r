@@ -17,7 +17,8 @@ skills: 1
 This is an example exercise.
 
 `@instructions`
-
+create a data frame with three columns defined as follow: 
+Column 1: name, column 2: ID
 
 `@hint`
 
